@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=Welcome!&reversal=true&section=header&fontAlign=50&color=0:FFF1F4,50:FFD1DC,100:FFB7C5&fontColor=FFFFFF"
   alt="header"/>
 </div>
-
+<!-- BODY --->
 <body>
 <p align="center"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/404-this?style=flat-square&logoSize=auto&label=Love&labelColor=383133&color=C2551B">
@@ -20,7 +20,7 @@
 <p>Still searching for a reason to live...</p>
 <p>&nbsp;</p>
 <h3><strong><em>le vent se l&egrave;ve il faut tenter de vivre&nbsp;</em></strong></h3>
-<p><em>-Paul valeri</em></p>
+<p><em>-Paul valéry</em></p>
 
 <td width="50%" align="center">
  <h1>Things I have worked with</h1>
@@ -35,24 +35,43 @@
      <p></p>
      :video_game::bar_chart:
  </h1>
+  <h1>Education</h1>
+  <img align="center" top="500" height="200" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/UNAL_Logosimbolo.svg">
 </td>
 </tr>
 </table>
+
+<div align="center"">
+<h1>Languages</h1>
+
+<img align="center" top="500" height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg">
+<img align="center" top="500" height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg">
+</div>
+<br>
 </body>
 
-
+<!-- FOOTER -->
 <footer>
 <div align="center" width="100">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=&reversal=true&section=footer&fontAlign=50&color=0:FFF1F4,50:FFD1DC,100:FFB7C5&fontColor=FFFFFF"
 </footer>
+
+  
 <!--
-USED:
-1. Markdown: https://github.github.com/gfm/
-2. Icons: https://github.com/devicons/devicon/tree/v2.14.0/icons
-3. Header/Footer: https://github.com/kyechan99/capsule-render
-4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
-5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
-6. Badges: https://shields.io
+This profile was made with this amazing tools
+1. https://shields.io/badges/static-badge
+2. https://capsule-render.vercel.app/
+3. https://html-online.com/
+4. https://gist.github.com/rxaviers/7360908
+
+And with the inspiration of:
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/LulietLyan.md?plain=1
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Dum6o.md?plain=1
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/100rabhcsmc.md?plain=1
+
+If you want use this as template just put the link of my profile to give me credits in the coments
+
+100% made by a human, no AI was used
 -->
 
 ------
