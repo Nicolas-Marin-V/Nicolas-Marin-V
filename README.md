@@ -9,6 +9,8 @@
 <p align="center"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/404-this?style=flat-square&logoSize=auto&label=Love&labelColor=383133&color=C2551B">
 <img alt="Static Badge" src="https://img.shields.io/badge/Alive-this?style=flat-square&logoSize=auto&label=State&labelColor=383133&color=54CC67">
+<img alt="Static Badge" src="https://img.shields.io/badge/Colombia-this?style=flat-square&logoColor=%23C9072A&label=Made%20in%3A&color=%23E6BA00">
+
 </p>
 
 <table style="border-collapse: collapse;> 
