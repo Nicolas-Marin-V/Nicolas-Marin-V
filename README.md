@@ -38,7 +38,7 @@
      :video_game::bar_chart:
  </h1>
   <h1>Education</h1>
-  <img align="center" top="500" height="200" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/UNAL_Logosimbolo.svg">
+  <img align="center" width="500" top="500" height="200" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/UNAL_Logosimbolo.svg">
 </td>
 </tr>
 </table>
