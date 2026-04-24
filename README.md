@@ -45,9 +45,10 @@
 
 <div align="center"">
 <h1>Languages</h1>
-
+<div class="row">
 <img align="center" top="500" width="150" height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg">
 <img align="center" top="500" width="150" height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg">
+</div>
 </div>
 <br>
 </body>
